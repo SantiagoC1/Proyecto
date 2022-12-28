@@ -1,0 +1,111 @@
+
+body{
+    background-image: url(imagenes-pagina/FondoFP2.png);
+    width: 100%;
+    position: relative;
+    backface-visibility: hidden;
+    font-family: 'Finger Paint', cursive;
+
+}
+
+#titu{
+    font-style: initial;
+    font-family: 'Finger Paint', cursive;
+    font-size: x-large;
+    font-weight: bold;
+    background-color: #FFC788;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px 600px;
+    opacity: 95%;
+}
+
+.cazul{
+    
+    background-color: rgb(255, 222, 75);
+    text-align: center;
+    margin-right: 111.5px;
+    margin-left: 216.5px;    
+    padding: 25px;
+    opacity: 95%;
+    border-radius: 30px;
+}
+
+
+.crojo{
+    background-color: #FFC788;
+    text-align: center;
+    margin-right: 111.5px;
+    margin-left: 216.5px; 
+    padding: 20px;
+    opacity: 95%;
+    border-radius: 30px;
+}
+
+nav{
+    display: flex;
+    margin-bottom: 25px;
+    justify-content: center;
+    margin-left: -2px;
+    margin-right: -2px;
+}
+
+
+.inicioa{
+    margin-top: 10px;
+    padding: 15px;
+    width: 140px;
+    text-align: center;
+    font-weight: bold;
+    background-color: #FFC788;
+    
+}
+
+.iniciob{
+    margin-top: 10px;
+    padding: 15px;
+    width: 140px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(255, 222, 75);
+    
+}
+a{
+    text-decoration: none;
+    font-size: 23.5px;
+    color: black;
+}
+a:hover{
+    font-size: 27.8px;
+   /*  background: black;
+    color: white;*/
+} 
+p{
+    font-size: 30px;
+}
+.ima{
+    width: 290px;
+    height: 290px;
+}
+#caja{
+    display: inline-block;
+    margin-bottom: 25px;
+    justify-content: flex-start;
+    background-color:#FFC788;
+    border-radius: 30px;
+}
+h1{
+    font-size: 35.5px;
+}
+h2{
+    font-size: 26.7px;
+}
+
+#pie-pag{
+    text-align: center;
+    background-color: #FFC788;
+    margin: 40px;
+    margin-right: 111.5px;
+    margin-left: 216.5px; 
+    border-radius: 15px;
+}

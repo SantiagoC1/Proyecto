@@ -1,0 +1,132 @@
+
+body{
+    background-image: url(imagenes-pagina/logonba.png);
+    width: 100%;
+    position: relative;
+
+}
+
+#titu{
+    font-style: initial;
+    font-family: 'Black Ops One', cursive;
+    font-size: x-large;
+    font-weight: bold;
+    background-color: #77B1E0;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px 600px;
+    opacity: 95%;
+    min-width: 300px;
+}
+
+.cazul{
+    
+    background-color: #77B1E0;
+    text-align: center;
+    margin-right: 111.5px;
+    margin-left: 291.5px;
+    padding: 25px;
+    opacity: 95%;
+    border-radius: 15px;
+    font-family: 'Permanent Marker', cursive;
+    flex: 1;
+    
+}
+
+
+.crojo{
+    background-color: rgb(253, 63, 63);
+    text-align: center;
+    margin-right: 111.5px;
+    margin-left: 291.5px; 
+    padding: 25px;
+    opacity: 95%;
+    border-radius: 15px;
+    font-family: 'Permanent Marker', cursive;
+    flex: 1;
+    
+}
+
+
+nav{
+    display: flex;
+    margin-bottom: 25px;
+    justify-content: center;
+    margin-left: -2px;
+    margin-right: -2px;
+    font-family: 'Luckiest Guy', cursive;
+    
+}
+
+.accesos{
+    margin-top: 10px;
+    padding: 15px;
+    width: 140px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgba(255, 136, 136, 0.7);
+    border: 1px solid #77B1E0;
+    
+    
+}
+#caja{
+    display: flex;
+    margin-bottom: 25px;
+    justify-content: center;
+}
+
+.inicioa{
+    margin-top: 10px;
+    padding: 15px;
+    width: 140px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(255, 89, 89);
+    border: 1px solid #77B1E0;
+    border-radius: 15px;
+}
+
+.iniciob{
+    margin-top: 10px;
+    padding: 15px;
+    width: 140px;
+    text-align: center;
+    font-weight: bold;
+    background-color: #77B1E0;
+    border: 1px solid #f55858;
+    border-radius: 15px;
+}
+a{
+    text-decoration: none;
+    font-size: 23.5px;
+    color: black;
+}
+h1{
+    font-size: 29px;
+}
+a:hover{
+    font-size: 27.5px;
+} 
+p{
+    font-size: 30px;
+}
+article{
+    font-size: 20px;
+}
+.ima{
+    width: 290px;
+    height: 290px;
+}
+.nom{
+    font-size: 33.5px;
+}
+
+
+#pie-pag{
+    text-align: center;
+    background-color: #77B1E0;
+    margin: 40px;
+    margin-right: 111.5px;
+    margin-left: 291.5px; 
+    border-radius: 15px;
+}
